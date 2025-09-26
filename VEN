@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>VEN - Inclusión Financiera Descentralizada</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      color: #222;
+      text-align: center;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 20px;
+    }
+    header img {
+      width: 120px;
+      margin-bottom: 10px;
+    }
+    h1 {
+      font-size: 2em;
+    }
+    .container {
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 20px;
+    }
+    .donate {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-top: 20px;
+    }
+    .wallet {
+      font-family: monospace;
+      font-size: 1.1em;
+      background: #eee;
+      padding: 10px;
+      border-radius: 5px;
+      word-break: break-all;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="VEN Logo">
+    <h1>VEN</h1>
+    <p>Inclusión Financiera Descentralizada para Venezuela</p>
+  </header>
+
+  <div class="container">
+    <h2>🌍 Propósito</h2>
+    <p>
+      VEN es un proyecto independiente y anónimo creado por un pequeño grupo de ciudadanos venezolanos.  
+      Nuestro objetivo es brindar acceso a un sistema financiero justo, libre y descentralizado, 
+      construido para la inclusión y el desarrollo social.
+    </p>
+
+    <div class="donate">
+      <h2>🤝 Apoya el Proyecto</h2>
+      <p>
+        Los fondos recaudados serán usados para respaldar la liquidez inicial, cubrir infraestructura básica 
+        y dar tracción al ecosistema de VEN.
+      </p>
+      <p class="wallet">
+        Wallet: 0x9A370DdB1Df3baE1F35A2236cBC95A16535Bd0C2
+      </p>
+    </div>
+
+    <h2>🔒 Anonimato</h2>
+    <p>
+      El anonimato no es un capricho, es una necesidad de seguridad.  
+      En el contexto venezolano, proteger a los promotores y participantes es vital para garantizar la continuidad del proyecto.
+    </p>
+  </div>
+
+  <footer>
+    <p>VEN © 2025 - Un proyecto ciudadano para la inclusión financiera.</p>
+  </footer>
+</body>
+</html>
